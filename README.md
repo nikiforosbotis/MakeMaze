@@ -1,2 +1,3 @@
 # MakeMaze
-1st exercise in Python
+
+Script in python which implements the [Depth-first search algorithm](https://en.wikipedia.org/wiki/Depth-first_search).
