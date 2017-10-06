@@ -41,4 +41,4 @@ The file in which the labyrinth will be saved will have the following form:
 ...
 ```
 
-Full program's description (Greek) can be found [here](https://github.com/dmst-algorithms-course/assignment-2015-1).
+The full program's description (in Greek) can be found [here](https://github.com/dmst-algorithms-course/assignment-2015-1).
